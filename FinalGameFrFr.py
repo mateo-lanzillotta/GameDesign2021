@@ -1,10 +1,11 @@
 #Mateo Lanzillotta
 #6/22/2021
-#First draft of final project
+#Final draft of final project
 #Historical Quiz game
-#This game has 3 levels, each getting harder and containing 3 questions
-#20 points for a correct answer, and -20 for an incorrect one
-#At the end, you may see your score
+#INSTRUCTIONS:
+#This game has 3 levels, each getting harder and containing 3 questions.
+#20 points are given for a correct answer, and 20 taken for an incorrect one.
+#At the end, you may see your score as compared to others.
 #Jadon helped me with the scoreboard
 import random, sys, time, os, datetime
 score = 0
